@@ -2,6 +2,8 @@
 
 This Terraform configuration deploys Azure Service Groups following enterprise-grade Platform Engineering and Application Team organizational patterns. The structure is designed to support cross-functional teams, clear separation of concerns, and effective governance at scale.
 
+Refer to blog: [Deploying Azure Service Groups with Terraform AzAPI](https://luke.geek.nz/azure/service-groups-terraform-azapi/)
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
