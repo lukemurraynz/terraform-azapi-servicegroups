@@ -3,7 +3,7 @@
 variable "tenant_id" {
   description = "Azure tenant ID (used as root service group)"
   type        = string
-  default     = "2463cfda-1c0b-43f5-b6e5-1c370752bb93"
+  default     = "2s632fda-1b0b-43f5-b6e5-1c3e0752fb93"
 }
 
 variable "environment" {
